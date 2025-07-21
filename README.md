@@ -36,16 +36,37 @@
 ---
 
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tushar-sahni-55057a1ab/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://x.com/Tusharsahni29" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-  <a href="mailto:tusharsahni1234@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://portfolio-tusharsahnii.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+
+  <a href="https://linkedin.com/in/tusharsahnii" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/>
+    &nbsp;<strong>LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://twitter.com/tusharsahnii" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="24" height="24"/>
+    &nbsp;<strong>Twitter (X)</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:tusharsahnii@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="24" height="24"/>
+    &nbsp;<strong>Email</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://portfolio-tusharsahnii.vercel.app" target="_blank" rel="noreferrer">
+    🌐
+    &nbsp;<strong>Portfolio</strong>
+  </a>
+
 </p>
 
----
+
+
 
 ### 🧠 Currently Learning
 
