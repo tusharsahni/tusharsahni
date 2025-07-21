@@ -80,9 +80,5 @@
 - 🎓Former Intern @ **HTC Global Services** – AI Team, worked on GenAI, Bedrock, SageMaker
 
 
----
 
-> “Code with purpose, build with impact.” — Tushar Sahni
-
----
 
